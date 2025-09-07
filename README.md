@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # number-guesser
-=======
 # Number Guesser Game Projeect
 
 ## Description
@@ -10,4 +8,3 @@ This project is a game where users can guess a number between 1 and 100. The use
 1. Clone down this repo, and cd into the project.
 2. Run `pip install -r requiremnts.txt` in your command line.
 3. Run `python number_guesser.py` in your command line.
->>>>>>> 67b797e (number_guesser)
